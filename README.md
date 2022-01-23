@@ -1,2 +1,3 @@
 # AulaTrenee
-Estou aprendendo ainda
+#Estou aprendendo ainda
+estou aprendendo ainda, tenha paciênça comigo
