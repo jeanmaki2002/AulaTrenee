@@ -1,4 +1,4 @@
-package Exercício2;
+package Exercício3;
 
 public class Quadrilatero {
     public static void area(double lado)

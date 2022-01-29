@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7018b56e-174a-444f-bdc2-abe962961d01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercício2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercício2/Quadrilatero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercício 3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercício2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercício2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercício2/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercício2/Quadrilatero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +40,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercício2.Main" />
+      <option name="MAIN_CLASS_NAME" value="Exercício3.Main" />
       <module name="AulaTrenee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercício2.*" />
+          <option name="PATTERN" value="Exercício3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
